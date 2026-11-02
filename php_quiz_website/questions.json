@@ -1,0 +1,2422 @@
+[
+  {
+    "id": 1,
+    "question": "Trình dịch PHP nào là trình dịch bạn cho là đúng?",
+    "options": {
+      "A": "PHP Translator",
+      "B": "PHP Interpreter",
+      "C": "PHP Communicator",
+      "D": "Không có Câu nào đúng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Engine nào là nền tảng chính của PHP?",
+    "options": {
+      "A": "ZEDAT",
+      "B": "ZEND",
+      "C": "ZENAT",
+      "D": "ZETA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Kết quả đoạn code sau là gì? <?php $x = array(1,3,2,3,7,8,9,7,3); $y = array_count_values($x); echo $y[8]; ?>",
+    "options": {
+      "A": "43",
+      "B": "1",
+      "C": "8",
+      "D": "6"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Khi thực thi PHP4 Script nó nhanh hơn PHP3 mấy lần",
+    "options": {
+      "A": "Gấp 25",
+      "B": "Gấp 3",
+      "C": "Gấp 40",
+      "D": "Gấp 100"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "Cài đặt Apache xong bạn có thể kiểm tra servername của bạn qua cách gọi ulr http://localhost, ngoài cách này còn cách nào khác nữa không?",
+    "options": {
+      "A": "http://127.0.0.1",
+      "B": "http://127.0.1.0",
+      "C": "http://127.0.0.0",
+      "D": "http://000.0.0.0"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Khi sử dụng bộ PHP & Apache bạn phải trả",
+    "options": {
+      "A": "1500$",
+      "B": "150$",
+      "C": "50$ / mỗi tháng",
+      "D": "Không tốn đồng nào"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Ai là người đầu tiên phát minh ra PHP?",
+    "options": {
+      "A": "James Gosling",
+      "B": "Tim Berners-Lee",
+      "C": "Todd Fast",
+      "D": "Rasmus Lerdorf"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "PHP dựa theo syntax của ngôn ngữ nào?",
+    "options": {
+      "A": "Basic",
+      "B": "Pascal",
+      "C": "C",
+      "D": "VB Script"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "W tượng trưng cho cụm từ nào trong gói WAMP?",
+    "options": {
+      "A": "Word",
+      "B": "Windows",
+      "C": "Whistler",
+      "D": "While"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Truớc khi đổi thành PHP: Hypertext Preprocessor nguồn gốc của nó phát xuất từ cụm từ nào",
+    "options": {
+      "A": "Preminum Handled Processor",
+      "B": "Personal HomePage Tools",
+      "C": "Printed Homepage Product",
+      "D": "Personal Hightec Processor"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Khi thực thi biến này $Var3 = $var1 % $var2 dạng type của nó là",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Dạng type nào sẽ được tự động dịch khi gán biến này $var = 50.0",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Số 41 này tương đương với số Bit nào",
+    "options": {
+      "A": "10010010",
+      "B": "00101001",
+      "C": "00010101",
+      "D": "00101101"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Ứng dụng PHP có thể gắn ở",
+    "options": {
+      "A": "Chỉ gắn được ở phần Header",
+      "B": "Chỉ gắn được ở phần Body",
+      "C": "Chỗ nào cũng được trong văn bản (tệp) HTML",
+      "D": "Chỉ gắn được trong thẻ script"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Câu lệnh nào là đúng , khi bạn muốn biến đổi dang (type) thành integer?",
+    "options": {
+      "A": "$item = (int) \"100Laptop\";",
+      "B": "$tem = \"int\"\"100Laptop\";",
+      "C": "$item = [int] \"100Laptop\";",
+      "D": "$item = INT\"100Laptop\";"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Ký hiệu nào dùng để kết thúc câu lệnh trong PHP?",
+    "options": {
+      "A": "Dấu chấm đôi ( :: )",
+      "B": "Dấu phẩy ( , )",
+      "C": "Dấu chấm phẩy ( ; )",
+      "D": "Dấu thán ( ! )"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Type boolean trả cho ta giá trị gì ?",
+    "options": {
+      "A": "True hay false",
+      "B": "Equal hay unequal",
+      "C": "Bigger hay smaller",
+      "D": "Yes hay none"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "PHP không hổ trợ dạng type nào?",
+    "options": {
+      "A": "Integer",
+      "B": "String",
+      "C": "Single",
+      "D": "Double"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Dấu (biểu tượng) nào đuợc dùng để làm thành một biến",
+    "options": {
+      "A": "!",
+      "B": "?",
+      "C": "%",
+      "D": "$"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "question": "Loại biến nào được dùng trong PHP?",
+    "options": {
+      "A": "Typeless variable",
+      "B": "Headless variable",
+      "C": "Nameless variable",
+      "D": "Irrevelant variable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Dạng type nào dùng cho chuỗi?",
+    "options": {
+      "A": "Integer",
+      "B": "Double",
+      "C": "String",
+      "D": "Boolean"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Câu lệnh PHP nào không tương thích trong văn bản HTML?",
+    "options": {
+      "B": "<? echo \"Hello World\"; ?>",
+      "C": "<% echo \"Hello World\"; %>",
+      "D": "<! echo \"Hello Wordl\"; !>",
+      "A": "<?php echo \"Hello World\"; ?>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "question": "Câu lệnh nào dùng để xuất ra trình duyệt?",
+    "options": {
+      "A": "say",
+      "B": "write",
+      "C": "echo",
+      "D": "cout<<"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "PHP là từ viết tắt của?",
+    "options": {
+      "A": "PHP: Hypertext Preprocessor",
+      "B": "Personal Hypertext Processor",
+      "C": "Private Home Page",
+      "D": "Personal Home Page"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "PHP được bao bởi:",
+    "options": {
+      "A": "<?php…?>",
+      "B": "<script>...</script>",
+      "C": "<?php>...</?>",
+      "D": "<&>...</&>"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Để in ra \"Hello World\" trong PHP",
+    "options": {
+      "A": "\"Hello World\";",
+      "B": "Document.Write(\"Hello World\");",
+      "C": "echo \"Hello World\";",
+      "D": "Cout<<” Hello World\";"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Mọi biến trong php đều bắt đầu bởi?",
+    "options": {
+      "A": "!",
+      "B": "&",
+      "C": "$",
+      "D": "@ 2"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Để kết thúc 1 dòng trong php?",
+    "options": {
+      "A": "Chấm (.)",
+      "B": "New line",
+      "C": "Dấu chấm phẩy (;)",
+      "D": "</php>"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Cú pháp php gần giống nhất với",
+    "options": {
+      "A": "Perl and C",
+      "B": "VBScript",
+      "C": "JavaScript",
+      "D": "Java"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Làm cách nào để lấy biến truyền qua server thông qua phương thức GET trong php",
+    "options": {
+      "A": "Request.Form;",
+      "B": "$_GET[];",
+      "C": "Request.QueryString;",
+      "D": "Request"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Trong php, có thể sử dụng cả dấu nháy đơn ‘’ và dấu nháy kép “” cho chuỗi",
+    "options": {
+      "A": "False",
+      "B": "True",
+      "C": "Error",
+      "D": "Bool"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Cách nào đúng để include 1 }le \"time.inc\" ?",
+    "options": {
+      "A": "<?php require(\"time.inc\"); ?>",
+      "B": "<?php include_}le(\"time.inc\"); ?>",
+      "C": "<% include }le=\"time.inc\" %>",
+      "D": "<!--include }le=\"time.inc\"-->"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Mở }le “time.txt” để đọc",
+    "options": {
+      "A": "fopen(\"time.txt\",\"r\");",
+      "B": "open(\"time.txt\",\"read\");",
+      "C": "open(\"time.txt\");",
+      "D": "fopen(\"time.txt\",\"r+\");"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "PHP cho phép gửi mail trực tiếp từ script",
+    "options": {
+      "A": "False",
+      "B": "True",
+      "C": "Error",
+      "D": "Bool"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Kết nối db nào là đúng",
+    "options": {
+      "A": "mysql_connect(\"localhost\");",
+      "B": "connect_mysql(\"localhost\");",
+      "C": "mysql_open(\"localhost\");",
+      "D": "dbopen(\"localhost\");"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Để +1 cho biến $count",
+    "options": {
+      "A": "$count =+1",
+      "B": "++count",
+      "C": "count++;",
+      "D": "$count++;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "Để ghi chú trong }le php",
+    "options": {
+      "A": "<comment>…</comment>",
+      "B": "/*…*/",
+      "C": "<!--…-->",
+      "D": "*\\..\\*"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "PHP có thể chạy bằng IIS trong windows, chọn đáp án đúng nhất",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Window phải có bản quyền",
+      "D": "Window phải cài Xampp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "PHP 8.0 là phiên bản PHP mới nhất được phát hành vào năm nào?",
+    "options": {
+      "A": "2020",
+      "B": "2021",
+      "C": "2022",
+      "D": "2023"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Biến nào có tên sai ?",
+    "options": {
+      "A": "$my-Var",
+      "B": "$myVar",
+      "C": "$my_Var",
+      "D": "$my_Var_"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Trong PHP, die() và exit() có tác dụng?",
+    "options": {
+      "A": "Tắt trình duyệt web",
+      "B": "Dừng hệ thống lại không dịch nội dung PHP nữa và sẽ trả về thông báo",
+      "C": "Dừng hệ thống lại và sẽ trả về thông báo tắt máy",
+      "D": "Dừng hệ thống lại không dịch Câu lệnh MySQL nữa và sẽ trả về thông báo 3"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Có cách hàm về form ta có?",
+    "options": {
+      "A": "EditForm",
+      "B": "NewForm",
+      "C": "SubmitForm và ResetForm",
+      "D": "Tất cả đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "question": "Hàm nào sau đây dùng để lấy 1 hoặc nhiều giá trị ngẫu nhiên từ mảng php?",
+    "options": {
+      "A": "array_rand()",
+      "B": "array_random()",
+      "C": "Random_array()",
+      "D": "Rand_array()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "Đoạn code sau đây phát sinh ra kết quả gì ? <?php $x = array(\"aaa\",\"ttt\",\"www\",\"ttt\",\"yyy\",\"tttt\"); $y = array_count_values($x); echo $y[ttt]; Kết quả:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "1",
+      "D": "4"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Để nối 2 chuỗi trong php, sử dụng …?",
+    "options": {
+      "A": "dot operator (.)",
+      "B": "plus operator (+)",
+      "C": "dot operator (&)",
+      "D": "plus operator (-)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "question": "Để chèn nội dung 1 tập tin vào, thì sử dụng",
+    "options": {
+      "A": "include[]",
+      "B": "#include()",
+      "C": "include()",
+      "D": "#include{}"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Hàm nào để ngưng script php chạy tiếp?",
+    "options": {
+      "A": "break()",
+      "B": "quit()",
+      "C": "die()",
+      "D": "close()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "question": "Hàm nào để in biến, chuỗi, số… ra ngoài trình duyệt trong php?",
+    "options": {
+      "A": "echo();",
+      "B": "printf",
+      "C": "\"\"",
+      "D": "Cout()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Kết quả của script là gì? <?php define(\"x\", \"5\"); $x = x + 10; echo x; ?>",
+    "options": {
+      "A": "Error",
+      "B": "15",
+      "C": "10",
+      "D": "5"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 50,
+    "question": "Kết quả trả về của đoạn script là gì? <?php $rest = substr(\"abcdef\", -1); $rest = substr(\"abcdef\", 0, -1); ?>",
+    "options": {
+      "A": "f,abcde",
+      "B": "a,fedcb",
+      "C": "b,abcdef",
+      "D": "a,abcde"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "question": "Đoạn script sau đây cho ra kết quả gì? <?php $str = \"3dollars\"; $a = 20; $a += $str; print ($a); ?>",
+    "options": {
+      "A": "23 dollars",
+      "B": "203 dollars",
+      "C": "320 dollars",
+      "D": "23"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "question": "Đoạn script sau đây cho ra kết quả gì? <?php function zz(&$x) { $x = $x + 5; } $x = 10; 4 zz($x); echo $x; ?>",
+    "options": {
+      "A": "5",
+      "B": "0",
+      "C": "15",
+      "D": "10"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Đoạn code sau đây cho ra kết quả gì? <?php $x = array(2 => \"mouse\",7 => \"keyboard\"); $y = array_keys($x); echo $y[1]; ?>",
+    "options": {
+      "A": "keyboard",
+      "B": "mouse",
+      "C": "7",
+      "D": "2"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "Đoạn code sau đây cho ra kết quả gì? <?php $data = \"98.8degrees\"; (double)$data; (int)$data; (string)$string; echo $data; ?>",
+    "options": {
+      "A": "98",
+      "B": "98.8",
+      "C": "98.8 degrees",
+      "D": "degrees"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Đoạn code sau đây cho ra kết quả gì? <?php $x = \"101.5degrees\"; (double)$x; (int)$x; echo (string)$x; ?>",
+    "options": {
+      "A": "101.5",
+      "B": "degrees",
+      "C": "101",
+      "D": "101.5degrees"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "question": "Để comment 1 dòng trong php ta dùng, chọn đáp án đúng nhất?",
+    "options": {
+      "A": "// và #",
+      "B": "//",
+      "C": "#",
+      "D": "!>"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "question": "Tên biến nào sau đây sai?",
+    "options": {
+      "A": "$number-in-class",
+      "B": "$nic",
+      "C": "$NumberInClass",
+      "D": "$number_in_class"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "question": "Đoạn code sau đây cho ra kết quả gì? <?php $father = \"mother\"; $mother = \"son\"; echo $$father; ?>",
+    "options": {
+      "A": "son",
+      "B": "mother",
+      "C": "motherson",
+      "D": "error"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "question": "Đoạn code sau cho ra kết quả gì? <?php $arr = array(5 => 1,12 => 2); $arr[] = 56; $arr[\"x\"] = 42; echo var_dump($arr); ?>",
+    "options": {
+      "A": "42",
+      "B": "array(3) { [12]=> int(2) [13]=> int(56) [\"x\"]=> int(42) }",
+      "C": "array(4) { [5]=>int(1) [12]=> int(2) [13]=> int(56) [\"x\"]=> int(42) }",
+      "D": "1,2,56,42"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "question": "Đoạn code sau cho ra kết quả gì? <?php $date = \"2009-5-19\"; $time = \"14:31:38\"; $datetime = $date . $time; echo date(\"Y-m-d:H:i:s\", strtotime($datetime)); ?>",
+    "options": {
+      "A": "2009-5-19:14:31:38",
+      "B": "2009-5-19:2:31:38",
+      "C": "19-5-2009:2:31:38 5",
+      "D": "19/5/2009:14:31:38"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "question": "Đoạn code sau cho ra kết quả gì? <?php $color = array(\"red\",\"yellow\",\"white\"); $x = in_array(\"black\", $color); if ($x == 0) echo \"good bye\"; if ($x == 1) echo \"Hello\"; ?>",
+    "options": {
+      "A": "Hello",
+      "B": "Error",
+      "C": "good bye",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Khi thực thi biến này $Var3 = $var1 % $var2 dạng type của nó là",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "question": "Dạng type nào sẽ được tự động dịch khi gán biến này $var = 50.0",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "question": "Để chạy code PHP, bạn cần cài đặt",
+    "options": {
+      "A": "PHP",
+      "B": "PHP, Apache",
+      "C": "Apache, IIS",
+      "D": "IIS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "question": "Tên biến nào sau đây là hợp lệ",
+    "options": {
+      "A": "$3hello",
+      "B": "$this",
+      "C": "$_hello",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Câu nào dưới đây có kết quả bằng với $add += $add ?",
+    "options": {
+      "A": "$add = $add",
+      "B": "$add = $add +$add",
+      "C": "$add = $add + 1",
+      "D": "$add = $add + $add + 1"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Câu lệnh nào là đúng , khi bạn muốn biến đổi dang (type) thành integer?",
+    "options": {
+      "A": "$item = (int) \"100Laptop\";",
+      "B": "$tem = \"int\"\"100Laptop\";",
+      "C": "$item = [int] \"100Laptop\";",
+      "D": "$item = INT\"100Laptop\";"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "question": "Type boolean trả cho ta giá trị gì ?",
+    "options": {
+      "A": "true hay false",
+      "B": "equal hay unequal",
+      "C": "bigger hay smaller",
+      "D": "yes hay none"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "question": "PHP không hổ trợ dạng type nào?",
+    "options": {
+      "A": "integer",
+      "B": "string",
+      "C": "single",
+      "D": "double"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "Dấu (biểu tượng) nào đuợc dùng để làm thành một biến",
+    "options": {
+      "A": "!",
+      "B": "?",
+      "C": "$",
+      "D": "&"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Khi sử dụng bộ PHP & Apache bạn phải trả",
+    "options": {
+      "A": "$1500",
+      "B": "$150",
+      "C": "$50 / mỗi tháng",
+      "D": "Miễn phí"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "question": "MySQL chạy trên hệ điều hành nào",
+    "options": {
+      "A": "Mac OS",
+      "B": "Chỉ Windows",
+      "C": "Chỉ Linux",
+      "D": "Cả ba Câu trên đều đúng"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "question": "Câu lệnh nào để thêm 1 dòng vào bảng trong MYSQL/MYSQLI",
+    "options": {
+      "A": "Add new",
+      "B": "Insert into",
+      "C": "Update new",
+      "D": "Insert new"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "question": "Trong mệnh đề LIKE, cú pháp nào là đúng để tìm các giá trị nào kết thúc bằng “qpt”",
+    "options": {
+      "A": "LIKE %qpt",
+      "B": "LIKE *ton 6",
+      "C": "LIKE ton$",
+      "D": "LIKE ^.*ton$"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "question": "MYSQL/MYSQLI là",
+    "options": {
+      "A": "Ngôn ngữ lập trình",
+      "B": "Hệ quản trị cấu trúc dữ liệu",
+      "C": "Kỹ thuật để xây dựng các chương trình có độ tin cậy cao",
+      "D": "Hệ quản trị CSDL"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "question": "Mệnh đề SQL nào hạn chế số dòng trả về trong 1 Câu truy vấn",
+    "options": {
+      "A": "AND",
+      "B": "WHERE",
+      "C": "HAVING",
+      "D": "FROM"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Câu lệnh SELECT mà không có mệnh đề WHERE sẽ trả về",
+    "options": {
+      "A": "Mọi dòng dữ liệu từ bảng của Câu lệnh WHERE trước đó",
+      "B": "Mọi dữ liệu từ bảng",
+      "C": "Câu lệnh sai vì SELECT là phải có mệnh đề WHERE",
+      "D": "Luôn trả về giá trị NULL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "question": "Trong MySQL, Câu lệnh nào vừa xóa dữ liệu của bảng, vừa xóa luôn bảng",
+    "options": {
+      "A": "TRUNCATE",
+      "B": "DROP",
+      "C": "EMPTY",
+      "D": "DEL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "question": "Trong PHP, hàm nào dùng để nhận dữ liệu trả về từ Câu truy vấn database?",
+    "options": {
+      "A": "get_array() and get_row()",
+      "B": "get_array() and get_column()",
+      "C": "fetch_array() and fetch_row()",
+      "D": "fetch_array() and fetch_column()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "question": "Trong lớp mysqli của PHP, phương thức nào dùng để gửi Câu truy vấn",
+    "options": {
+      "A": "query()",
+      "B": "send_query()",
+      "C": "sendquery()",
+      "D": "query_send()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "PHP hỗ trợ hệ Quản Trị CSDL nào sớm nhất?",
+    "options": {
+      "A": "Oracle Database",
+      "B": "SQL",
+      "C": "SQL+",
+      "D": "MySQL"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "question": "Cho bảng employees với dữ liệu sau emp_id emp_name 1 Brush 2 Jerrin Câu lệnh truy vấn sau đây sẽ trả về giá trị gì? Select count(*) from employees",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "question": "Mệnh đề SQL nào hạn chế số dòng trả về trong 1 Câu truy vấn",
+    "options": {
+      "A": "AND",
+      "B": "WHERE",
+      "C": "HAVING",
+      "D": "FROM"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "question": "Câu lệnh SELECT mà không có mệnh đề WHERE sẽ trả về",
+    "options": {
+      "A": "Mọi dòng dữ liệu từ bảng của Câu lệnh WHERE trước đó",
+      "B": "Mọi dữ liệu từ bảng",
+      "C": "Câu lệnh sai vì SELECT là phải có mệnh đề WHERE",
+      "D": "Luôn trả về giá trị NULL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "question": "Trong MySQL, Câu lệnh nào vừa xóa dữ liệu của bảng, vừa xóa luôn bảng",
+    "options": {
+      "A": "TRUNCATE",
+      "B": "DROP",
+      "C": "EMPTY",
+      "D": "DEL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "question": "Các tập tin PHP có phần mở rộng mặc định là",
+    "options": {
+      "A": ".html",
+      "B": ".xml",
+      "C": ".php",
+      "D": ".ph"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "question": "Trình thông dịch trong PHP được 7 gọi là?",
+    "options": {
+      "A": "PHP Interpreter",
+      "B": "PHP Translator",
+      "C": "PHP Communicator",
+      "D": "Không có Câu nào đúng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 88,
+    "question": "Ai là người tạo ra ngôn ngữ PHP?",
+    "options": {
+      "A": "James Gosling",
+      "B": "Tim Berners-Lee",
+      "C": "Todd Fast",
+      "D": "Rasmus Lerdorf"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "question": "PHP dựa theo cú pháp của ngôn ngữ nào?",
+    "options": {
+      "A": "Basic",
+      "B": "Pascal",
+      "C": "C",
+      "D": "VB Script"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "question": "Kí tự W trong WAMP tượng trưng cho từ",
+    "options": {
+      "A": "Word",
+      "B": "Windows",
+      "C": "Whistler",
+      "D": "While"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "question": "Khi thực thi: $var3 = $var1 % $var2, dạng type của $var3 là",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Dạng type nào sẽ được tự động dịch khi thực thi lệnh gán: $var = 50.0",
+    "options": {
+      "A": "double",
+      "B": "integer",
+      "C": "string",
+      "D": "boolean"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Để viết code PHP, bạn có thể sử dụng bộ Editor",
+    "options": {
+      "A": "Notepad",
+      "B": "Notepad ++",
+      "C": "Adobe Dreamweaver",
+      "D": "Cả 3 đáp án"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "question": "Phiên bản …. giới thiệu tính năng Try/catch Exception?",
+    "options": {
+      "A": "PHP 4",
+      "B": "PHP 5",
+      "C": "PHP 5.3",
+      "D": "PHP 6"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "Câu lệnh nào lưu trữ giá trị 111 trong biến num?",
+    "options": {
+      "A": "int $num = 111;",
+      "B": "int mum = 111;",
+      "C": "$num = 111;",
+      "D": "111 = $num;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "question": "Kết quả của đoạn php dưới đây là? <?php $num = 1; $num1 = 2; print $num . \"+\" . $num1; ?>",
+    "options": {
+      "A": "3",
+      "B": "1+2",
+      "C": "1.+.2",
+      "D": "Xảy ra lỗi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $num = “1”; $num1 = “2”; print $num + $num1; ?>",
+    "options": {
+      "A": "3",
+      "B": "1+2",
+      "C": "12",
+      "D": "Xảy ra lỗi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Tên biến nào sau đây là hợp lệ",
+    "options": {
+      "A": "$3hello",
+      "B": "$this",
+      "C": "$_hello",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $color = \"maroon\"; $var = $color[2]; echo \"$var\"; ?>",
+    "options": {
+      "A": "a",
+      "B": "Error 8",
+      "C": "$var",
+      "D": "r"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 100,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $score = 1234; $scoreboard = (array)$score; echo $scoreboard[0]; ?>",
+    "options": {
+      "A": "1",
+      "B": "Error",
+      "C": "1234",
+      "D": "2NỘP BÀI"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $total = \"25 students\"; $more = 10; $total = $total + $more; echo \"$total\"; ?>",
+    "options": {
+      "A": "Error",
+      "B": "35 students",
+      "C": "35",
+      "D": "25 students"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "question": "Câu nào dưới đây có kết quả bằng với $add += $add ?",
+    "options": {
+      "A": "$add = $add",
+      "B": "$add = $add +$add",
+      "C": "$add = $add + 1",
+      "D": "$add = $add + $add + 1"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "question": "Câu lệnh nào output ra “$x” trên màn hình",
+    "options": {
+      "A": "echo “\\$x”;",
+      "B": "echo “$$x”;",
+      "C": ") echo “/$x”;",
+      "D": "echo “$x;”;"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $a = \"clue\"; $a .= \"get\"; echo \"$a\"; ?>",
+    "options": {
+      "A": "get",
+      "B": "true",
+      "C": "false",
+      "D": "clueget"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $a = 5; $b = 5; echo ($a === $b); ?>",
+    "options": {
+      "A": "5 === 5",
+      "B": "Error",
+      "C": "1",
+      "D": "False"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Kí tự nào sau đây là kí tự xuống hàng trong PHP?",
+    "options": {
+      "A": "\\r",
+      "B": "\\n",
+      "C": "/n",
+      "D": "/r"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $num = 10; echo 'What is her age? \\n She is $num years old'; ?>",
+    "options": {
+      "A": "What is her age? \\n She is $num years old",
+      "B": "What is her age? She is $num years old",
+      "C": "What is her age? She is 10 years old",
+      "D": "What is her age?"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 108,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $team = \"arsenal\"; switch ($team) { case \"manu\": echo \"I love man u\"; case \"arsenal\": echo \"I love arsenal\"; case \"manc\": echo \"I love manc\"; 9 } ?>",
+    "options": {
+      "A": "I love arsenal",
+      "B": "Error",
+      "C": "I love arsenalI love manc",
+      "D": "I love arsenalI love mancI love manu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Kết quả của đoạn code dưới đây là? Nếu $a = 12 thì Câu lệnh sau: ($a == 12) ? 5 : 1 có kết quả là?",
+    "options": {
+      "A": "12",
+      "B": "1",
+      "C": "Error",
+      "D": "5"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function calc($price, $tax = \"\") { $total = $price + ($price * $tax); echo \"$total\"; } calc(42); ?>",
+    "options": {
+      "A": "Error",
+      "B": "0",
+      "C": "42",
+      "D": "84"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $op2 = \"blabla\"; function foo($op1) { echo $op1; echo $op2; } foo(\"hello\"); ?>",
+    "options": {
+      "A": "helloblabla",
+      "B": "Error",
+      "C": "hello",
+      "D": "helloblablablabla"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "question": "Trong PHP, hàm bắt đầu bởi (2 dấu ) được gọi là hàm",
+    "options": {
+      "A": "Magic Function",
+      "B": "Inbuilt Function",
+      "C": "Default Function",
+      "D": "User De}ned Function"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function foo($msg) { echo \"$msg\"; } $var1 = \"foo\"; $var1(\"will this work\"); ?>",
+    "options": {
+      "A": "Error.",
+      "B": "$msg",
+      "C": "0",
+      "D": "will this work"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 114,
+    "question": "Rasmus Lerdorf, người tạo ra ngôn ngữ PHP là người nước nào?",
+    "options": {
+      "A": "Úc",
+      "B": "Ấn Độ",
+      "C": "Greenland",
+      "D": "Anh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "Trong PHP, hàm nào được sử dụng để nén 1 chuỗi?",
+    "options": {
+      "A": "zip_compress()",
+      "B": "zip()",
+      "C": "compress()",
+      "D": "gzcompress()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "question": "Kết quả của đoạn code dưới đây là? <?php echo chr(52); ?>",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 117,
+    "question": "Kết quả của đoạn code dưới đây là? <?php echo ord(\"hi\"); ?> 10",
+    "options": {
+      "A": "106",
+      "B": "103",
+      "C": "104",
+      "D": "209"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 118,
+    "question": "Kết quả của đoạn code dưới đây là? <?php echo ucwords(\"i love my country\"); ?>",
+    "options": {
+      "A": "I love my country",
+      "B": "i love my Country",
+      "C": "I love my Country",
+      "D": "I Love My Country"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 119,
+    "question": "Kết quả của đoạn code dưới đây là? <?php echo lcfirst(\"welcome to India\"); ?>",
+    "options": {
+      "A": "welcome to India",
+      "B": "welcome to india",
+      "C": "Welcome to India",
+      "D": "Welcome to india"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "question": "Mảng PHP bắt đầu bởi phần tử có vị trí",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0",
+      "D": "-1"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "question": "Trong PHP, hàm nào dùng để kiểm tra 1 đối tượng có phải là mảng hay không?",
+    "options": {
+      "A": "this_array()",
+      "B": "is_array()",
+      "C": "do_array()",
+      "D": "in_array()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Trong PHP, hàm nào dùng để thêm phần tử vào cuối mảng?",
+    "options": {
+      "A": "array_unshift()",
+      "B": "into_array()",
+      "C": "inend_array()",
+      "D": "array_push()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 123,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $fruits = array(\"apple\",\"orange\",\"banana\"); echo (next($fruits)); echo (next($fruits)); ?>",
+    "options": {
+      "A": "orangebanana",
+      "B": "appleorange",
+      "C": "orangeorange",
+      "D": "appleapple"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Trong PHP, hàm nào dùng để truy xuất tới phần tử trước đó trong mảng?",
+    "options": {
+      "A": "last()",
+      "B": "before()",
+      "C": "prev()",
+      "D": "previous()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "question": "Trong PHP, hàm nào sắp xếp mảng theo thứ tự giảm dần?",
+    "options": {
+      "A": "sort()",
+      "B": "asort()",
+      "C": "rsort()",
+      "D": "dsort()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $fruits = array(\"apple\",\"mango\",\"peach\",\"pear\",\"oran ge\"); $subset = array_slice($fruits, 2); print_r($subset); ?>",
+    "options": {
+      "A": "Array ( [0] => peach )",
+      "B": "Array ( [0] => apple [1] => mango [2] => peach )",
+      "C": "Array ( [0] => apple [1] => mango )",
+      "D": "Array ( [0] => peach [1] => pear [2] => orange )"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 127,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $number = array(\"4\",\"hello\",2); echo (array_sum($number)); ?>",
+    "options": {
+      "A": "4hello2",
+      "B": "4",
+      "C": "2 11",
+      "D": "6"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 128,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $a = array(12,5,2); echo (array_product($a)); ?>",
+    "options": {
+      "A": "024",
+      "B": "120",
+      "C": "010",
+      "D": "060"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $people = array(\"Peter\",\"Susan\",\"Edmund\",\"Lucy\"); echo pos($people); ?>",
+    "options": {
+      "A": "Lucy",
+      "B": "Peter",
+      "C": "Susan",
+      "D": "Edmund"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 130,
+    "question": "Kết quả của đoạn code dưới đây là? <?php define(\"GREETING\", \"Hello you! How are you today?\"); echo constant(\"GREETING\"); ?>",
+    "options": {
+      "A": "Hello you! How are you today?",
+      "B": "GREETING",
+      "C": "GREETING, Hello you! How are you today?",
+      "D": "“GREETING”,”Hello you! How are you today?”"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 131,
+    "question": "Kết quả của đoạn code dưới đây là? <?php echo stripos(\"I love php, I love php too!\", \"PHP\"); ?>",
+    "options": {
+      "A": "3",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function mine($m) { if ($m < 0) echo \"less than 0\"; if ($m >= 0) echo \"Not True\"; } mine(0); ?>",
+    "options": {
+      "A": "less than 0",
+      "B": "Not True",
+      "C": "Không ra kết quả",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function 2myfunc() { echo \"Hello World\"; } 2myfunc(); ?> Kết quả của đoạn code dưới đây là?",
+    "options": {
+      "A": "Hello World",
+      "B": "Không có kết quả",
+      "C": "Có lỗi xảy ra",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 134,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function _func() { echo \"Hello World\"; } func(); ?>",
+    "options": {
+      "A": "Hello World",
+      "B": "Không có kết quả",
+      "C": "Có lỗi xảy ra",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function mine($num) 12 { $num = 2 + $num; echo $num; } mine(3); ?>",
+    "options": {
+      "A": "3",
+      "B": "$num",
+      "C": "5",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 136,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function one($string) { echo \"I am \" . $String; } one(\"Batman\"); ?>",
+    "options": {
+      "A": "I am Batman",
+      "B": "I am",
+      "C": "Batman",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 137,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function colour(){ $colors = array(\"red\",\"green\",\"blue\",\"yellow\"); foreach ($colors as $value) { echo \"$value \" . \",\"; } } colour(); ?>",
+    "options": {
+      "A": "red,green,blue,yellow,",
+      "B": "green,blue,yellow,red",
+      "C": "red,blue,yellow,green",
+      "D": "red,green,yellow,blue"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function case () { echo \"Hello World! \"; echo \"Hello World! \"; echo \"Hello World! \"; } case (); ?>",
+    "options": {
+      "A": "Hello World!",
+      "B": "Hello World! Hello World!",
+      "C": "Hello World! Hello World! Hello World!",
+      "D": "Không có câu nào đúng"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "question": "Kết quả của đoạn code dưới đây là? <?php function email() { $email = ’user@yahoo . com’; $new = strstr($email, ‘@'); echo $new; } email(); ?>",
+    "options": {
+      "A": "user",
+      "B": "user@yahoo.com",
+      "C": "@yahoo.com",
+      "D": "yahoo.com"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 140,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $x = 0; if ($x) print \"hi\"; else print \"how are u\"; ?>",
+    "options": {
+      "A": "how are u",
+      "B": "hi",
+      "C": "Error",
+      "D": "No output"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 141,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $x = 0; if ($x == 0) print \"hi\"; else print \"how are u\"; print \"hello\" ?>",
+    "options": {
+      "A": "how are uhello",
+      "B": "hihello",
+      "C": "hi",
+      "D": "No output 13"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "question": "Kết quả của đoạn code dưới đây là gì? $x = 0; if ($x == 1) if ($x >= 0) print \"true\"; else print \"false\";",
+    "options": {
+      "A": "true",
+      "B": "false",
+      "C": "error",
+      "D": "Không có kết quả in ra"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 143,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $a = 1; if (echo $a) print \"True\"; else print \"False\"; ?>",
+    "options": {
+      "A": "true",
+      "B": "false",
+      "C": "Xảy ra lỗi",
+      "D": "Không có kết quả trả về"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "question": "Kết quả của đoạn code dưới đây là? <?php $a = 1; if (print $a) print \"True\"; else print \"False\"; ?>",
+    "options": {
+      "A": "1True",
+      "B": "False",
+      "C": "Có lỗi xảy ra",
+      "D": "Màn hình trắng"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "question": "Tính đóng gói trong OOP là",
+    "options": {
+      "A": "Polymorphism",
+      "B": "Encapsulation",
+      "C": "Inheritance",
+      "D": "Abstraction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "question": "Tính đa hình trong OOP là",
+    "options": {
+      "A": "Polymorphism",
+      "B": "Inheritance",
+      "C": "Encapsulation",
+      "D": "Abstraction"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "question": "Tính kế thừa trong OOP là",
+    "options": {
+      "A": "Abstraction",
+      "B": "Polymorphism",
+      "C": "Inheritance",
+      "D": "Differential"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 148,
+    "question": "Từ khóa sau đây không được hỗ trợ bởi PHP",
+    "options": {
+      "A": "friendly",
+      "B": "final",
+      "C": "public",
+      "D": "static"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "question": "Dòng nào để khởi tạo một đối tượng thuộc lớp có tên foo trong PHP",
+    "options": {
+      "A": "$obj = new $foo;",
+      "B": "$obj = new foo;",
+      "C": "$obj = new foo ();",
+      "D": "obj = new foo ();"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 150,
+    "question": "Dòng nào để định nghĩa hằng số PI trong PHP",
+    "options": {
+      "A": "constant PI = “3.1415”;",
+      "B": "const $PI = “3.1415”;",
+      "C": "constant PI = ‘3.1415’;",
+      "D": "const PI = ‘3.1415’;"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 151,
+    "question": "Trong PHP, để gọi hằng số PI của lớp mathFunction",
+    "options": {
+      "A": "echo PI;",
+      "B": "echo mathFunction->PI;",
+      "C": "echo mathFunction::PI;",
+      "D": "echo mathFunction=PI;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 152,
+    "question": "Trong PHP, dòng nào dưới đây để gọi một phương thức",
+    "options": {
+      "A": "$object->methodName();",
+      "B": "object->methodName();",
+      "C": "object::methodName();",
+      "D": "$object::methodName();"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 153,
+    "question": "PHP không hỗ trợ từ khóa tầm vực nào sau đây:",
+    "options": {
+      "A": "final",
+      "B": "abstract",
+      "C": "final, abstract",
+      "D": "Tất cả từ khóa đều được PHP hỗ trợ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 154,
+    "question": "Trong PHP, từ khóa tầm vực nào ngăn không cho một phương thức bị ghi đè 14 bởi lớp con",
+    "options": {
+      "A": "Abstract",
+      "B": "Protected",
+      "C": "Final",
+      "D": "Static"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 155,
+    "question": "Điều nào là đúng về phương thức dựng (Constructors) trong PHP: i) PHP 4 giới thiệu phương thức dựng ii) Phương thức dựng chấp nhận tham số truyền vào iii) Trong phương thức dựng có thể gọi đến các phương thức khác. iv) Trong phương thức dựng có thể gọi đến các phương thức dựng khác",
+    "options": {
+      "A": "ii) và iii) đúng",
+      "B": "Tất cả các Câu trên đều đúng",
+      "C": "Tất cả các Câu trên đều sai",
+      "D": "ii), iii) và iv) đúng"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "question": "Khai báo nào là đúng cho phương thức dựng (Constructor) trong PHP",
+    "options": {
+      "A": "classname()",
+      "B": "_construct()",
+      "C": "function -construct()",
+      "D": "function __construct()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 157,
+    "question": "…. Giới thiệu từ khóa “instanceof” ? Điền vào dấu ...",
+    "options": {
+      "A": "PHP 4",
+      "B": "PHP 5",
+      "C": "PHP 5.3",
+      "D": "PHP 6"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Trong PHP, hàm nào sau đây được dùng để xác định một lớp có tồn tại hay không?",
+    "options": {
+      "A": "exist()",
+      "B": "exist_class()",
+      "C": "class_exist()",
+      "D": "__exist()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 159,
+    "question": "Hàm nào sau đây được dùng để xác định loại của đối tượng object trong PHP",
+    "options": {
+      "A": "obj_type()",
+      "B": "type()",
+      "C": "is_a()",
+      "D": "is_obj()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 160,
+    "question": "Tính trừu tượng trong OOP là",
+    "options": {
+      "A": "Polymorphism",
+      "B": "Inheritance",
+      "C": "Encapsulation",
+      "D": "Abstraction"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 161,
+    "question": "Trong PHP, sau khi thực hiện đoạn mã kết quả hiển thị sẽ là gì? <?php $values = array(10, 20, '0', '10hello', 'hello10'); echo array_sum($values); ?>",
+    "options": {
+      "A": "0",
+      "B": "20",
+      "C": "30",
+      "D": "40"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 162,
+    "question": "Trong PHP, sau khi thực hiện đoạn mã kết quả hiển thị sẽ là gì? <?php class number { public $a = 10; public $b = 20; private $c = 30; } $numbers = new number(); foreach ($numbers as $var => $value) { echo \"$value \"; } ?>",
+    "options": {
+      "A": "10 10",
+      "B": "10 20",
+      "C": "20 30",
+      "D": "10 30"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "question": "Trong đoạn code dưới đây <?php class Example { public $name; function Sample() { echo \"This is an example\"; } } ?> 15 Trong đoạn code dưới đây, …… là một thuộc tính",
+    "options": {
+      "A": "echo “This is an example”;",
+      "B": "public $name;",
+      "C": "class Example",
+      "D": "function sample()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "question": "Trong PHP, từ khóa nào được dùng để truy xuất đến các phương thức và thuộc tính trong chính lớp đó",
+    "options": {
+      "A": "private",
+      "B": "public",
+      "C": "protected",
+      "D": "$this"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "question": "Trong PHP, từ khóa nào cho phép các phương thức và thuộc tính của lớp có thể được truy xuất mà không cần khởi tạo đối tượng của lớp đó",
+    "options": {
+      "A": "protected",
+      "B": "final",
+      "C": "static",
+      "D": "private"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 166,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $a = 5; $b = 12; $c = 10; $d = 7; $e = ($a * $b) + $c * $d / $a; print ($e); ?>",
+    "options": {
+      "A": "74",
+      "B": "154",
+      "C": "26",
+      "D": "130"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $b = false; if ($b = true) print (\"true\"); else print (\"false\"); ?>",
+    "options": {
+      "A": "False",
+      "B": "True",
+      "C": "Có lỗi xảy ra",
+      "D": "True false"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php class A { static $word = \"hello\"; static function hello() { print static::$word; } } class B extends A { static $word = \"bye\"; } B::hello(); ?>",
+    "options": {
+      "A": "hello",
+      "B": "word",
+      "C": "bye",
+      "D": "Hello bye"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 169,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $x = 25; while ($x < 10) { $x--; } print ($x); ?>",
+    "options": {
+      "A": "25",
+      "B": "0",
+      "C": "Có xảy ra lỗi",
+      "D": "10"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php switch (1) { case 1: print (\"Book Details\"); case 2: print (\"Book Author\"); default: print (\"Missing Book\"); } 16 ?>",
+    "options": {
+      "A": "Book Details",
+      "B": "Book Author",
+      "C": "Missing Book",
+      "D": "Book DetailsBook AuthorMissing Book"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 171,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php function modvalue() { $a = 20; $b = 4; $c = $a % $b; print ($c); } modvalue(); ?>",
+    "options": {
+      "A": "4",
+      "B": "0",
+      "C": "20",
+      "D": "5"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $a = 5; $b = 12; $c = 10; $d = 7; $e = ($a * $b) + $c * $d / $a; print ($e); ?>",
+    "options": {
+      "A": "154",
+      "B": "74",
+      "C": "130",
+      "D": "26"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php function b($a = 4) { $a = $a / 2; return $a; } $a = 10; b($a); echo $a; ?>",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "2",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $a; for ($a = 1;$a <= 9;$a++) { if ($a == 5) continue; print ($a); } ?>",
+    "options": {
+      "A": "12345",
+      "B": "56789",
+      "C": "12346789",
+      "D": "123456789"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 175,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php echo (int)\"1235Jason\"; ?>",
+    "options": {
+      "A": "1235",
+      "B": "Có lỗi xảy ra",
+      "C": "0",
+      "D": "1235Jason"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "question": "Chức năng \"Loại bỏ phần tử cuối cùng của mảng và trả về phần tử cuối cùng đã được loại bỏ\" là chức năng của hàm nào trong các hàm sau đây",
+    "options": {
+      "A": "array_pop",
+      "B": "array_shift",
+      "C": "array_unique",
+      "D": "unset"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "question": "Chức năng \"Tính tổng các phần tử trong mảng\" là chức năng của hàm nào trong các hàm sau đây",
+    "options": {
+      "A": "sum",
+      "B": "array_sum",
+      "C": "sum_array",
+      "D": "Cả 3 đáp án trên"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "question": "Chức năng \"Chuyển một chuỗi thành một mảng\" là chức năng của hàm nào trong các hàm sau đây",
+    "options": {
+      "A": "str_to_array",
+      "B": "str_array",
+      "C": "implode",
+      "D": "explode"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 179,
+    "question": "Chức năng \"Chuyển một mảng thành một chuỗi\" là chức năng của hàm nào trong các hàm sau đây",
+    "options": {
+      "A": "array_to_str",
+      "B": "array_str",
+      "C": "implode",
+      "D": "explode"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 180,
+    "question": "Chức năng \"Làm tròn số\" không phải là chức năng của hàm nào trong các hàm sau đây",
+    "options": {
+      "A": "round",
+      "B": "ceil",
+      "C": "~oor",
+      "D": "round_number"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 181,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $array = array(\"a1\" => 'x',\"a2\" => 'e',\"a3\" => 'z'); asort($array); foreach ($array as $keys => $values) { print \"$keys = $values\"; } ?>",
+    "options": {
+      "A": "a2 = e a1 = x a3 = z",
+      "B": "a1 = e a2 = x a3 = z",
+      "C": "0 = e 1 =x 2 = z",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $array = array(\"a1\" => x,\"a2\" => e,\"a3\" => z); ksort($array); foreach ($array as $keys => $values) { print \"$keys = $values \"; } ?>",
+    "options": {
+      "A": "a1 = x a2 = e a3 = z",
+      "B": "a1 = e a2 = x a3 = z",
+      "C": "0 = e 1 = x 2 = z",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 183,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $array1 = array(\"a\",\"b\",\"c\",\"d\",\"e\",\"f\"); $array2 = array_slice($array1, -3); foreach ($array2 as $val) { print \"$val \"; } ?>",
+    "options": {
+      "A": "b c d",
+      "B": "a b c",
+      "C": "d e f",
+      "D": "c d e"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 184,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $string1 = \"ab\"; $string2 = \"cd\"; $string1 = $string1 . $string2; $string3 = \"abc\"; $string1 .= $string3; echo $string1; ?>",
+    "options": {
+      "A": "cdabcab",
+      "B": "abc",
+      "C": "cdabc",
+      "D": "abcdabc"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 185,
+    "question": "Chức năng \"Kiểm tra sự tồn tại của tập tin, thư mục\" là chức năng của hàm nào trong các hàm sau đây?",
+    "options": {
+      "A": "file_exists",
+      "B": "}letype",
+      "C": "}lesize",
+      "D": "is_executable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Một tập tin được cấu hình với quyền 754, như vậy phát biểu nào sau đây là phát biểu đúng ? 18",
+    "options": {
+      "A": "Owner/User có quyền đọc và thực thi",
+      "B": "Owner/User chỉ có quyền đọc tập tin",
+      "C": "Owner/User có toàn quyền",
+      "D": "Owner/User chỉ có quyền ghi tập tin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 187,
+    "question": "Đoạn mã HTML nào sau đây được sử dụng cho việc upload tập tin trong form?",
+    "options": {
+      "A": "<form enctype=\"text/plain\" action=\"index.php\" method=\"post\">",
+      "B": "<form enctype=\"plain\" action=\"index.php\" method=\"post\">",
+      "C": "<form enctype=\"multipart/form-data\" action=\"index.php\" method=\"post\">",
+      "D": "<form enctype=\"application/upload-}le\" action=\"index.php\" method=\"post\">"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? $a = \"hi,world\"; $b = array_map(\"strtoupper\", explode(\",\", $a)); foreach ($b as $value) { print \"$value\"; }",
+    "options": {
+      "A": "hiworld",
+      "B": "HI,WORLD",
+      "C": "The script will throw an error.",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php if (preg_match(\"/[^a-z589]+/\", \"ABasdfg589nmGH\", $array)) { print \"<pre>\\n\"; print_r($array[0]); print \"</pre>\\n\"; } ?>",
+    "options": {
+      "A": "589",
+      "B": "ABGH",
+      "C": "asdfg589nm",
+      "D": "AB"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 190,
+    "question": "Làm cách nào để lưu trữ một biến age có giá trị 25 vào trong session",
+    "options": {
+      "A": "$age = 25; session_regiser('age');",
+      "B": "$_SESSION['age'] = 25;",
+      "C": "session_register('age', 25);",
+      "D": "$HTTP_SESSION_VARS['age'] = 25;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 191,
+    "question": "Làm thế nào để bạn bắt đầu sử dụng Session trong PHP?",
+    "options": {
+      "A": "Luôn luôn được tự động gọi",
+      "B": "Gọi hàm start_session()",
+      "C": "Thiết lập session.auto_start trong phần cấu hình",
+      "D": "Gọi hàm session_register()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 192,
+    "question": "Xem đoạn mã lệnh sau đây. Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì (đối với cùng một người dùng) <?php session_start(); if (!array_key_exists('counter', $_SESSION)) { $_SESSION['counter'] = 0; } else { $_SESSION['counter']++;} session_regenerate_id(); echo $_SESSION['counter']; ?>",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "question": "Trong các cách sau đây, cách nào giúp bạn nhận được dữ liệu gửi đi từ Form mà không chắc chắn cơ chế nó được gửi đi như thế nào?",
+    "options": {
+      "A": "$_REQUEST[]",
+      "B": "$_GET[]",
+      "C": "$_POST[]",
+      "D": "$_SEND[]"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "question": "Phát biểu nào sao đây sai về XML",
+    "options": {
+      "A": "XML quy định người dùng phải tuân theo các thẻ riêng mà XML đã định nghĩa sẵn",
+      "B": "Các thẻ XML khá giống với HTML: tag, data, attribute",
+      "C": "XML được xây dựng theo dạng cây, phải có tối thiểu một nút gốc 19",
+      "D": "XML được hỗ trợ trên các trình duyệt phổ biến hiện"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "question": "Phát biểu nào sao đây đúng về công dụng của XML?",
+    "options": {
+      "A": "Lưu trữ thông tin nhỏ",
+      "B": "Tạo phần tóm tắt nội dung cho website (RSS)",
+      "C": "Tạo sơ đồ cho website (sitemap)",
+      "D": "Là cầu nối trao đổi dữ liệu giữa các ứng dụng web (web service)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "question": "Trong Xpath để lấy ra thông tin phần tử ở vị trí cuối cùng, chúng ta sử dụng",
+    "options": {
+      "A": "last()",
+      "B": "last()-1",
+      "C": "end()",
+      "D": "end()-1"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 197,
+    "question": "Phương thức nào sau đây được sử dụng để lấy các không gian tên được sử dụng trong một tài liệu XML từ một đối tượng SimpleXMLElement?",
+    "options": {
+      "A": "getName()",
+      "B": "getNamespaces()",
+      "C": "getElement()",
+      "D": "getDe}ned()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 198,
+    "question": "Phương thức nào sau đây được sử dụng để lấy tên của phần tử XML từ một đối tượng SimpleXMLElement?",
+    "options": {
+      "A": "__construct() được gọi tự động và được gọi đầu tiên khi một object được khởi tạo.",
+      "B": "__construct() thường dùng để khởi tạo các giá trị ban đầu, các trường hợp gọi __construct()",
+      "C": "__construct() được đặt tên trùng với tên class",
+      "D": "__construct() phải có tham số được truyền"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 199,
+    "question": "Trong DomDocument sử dụng phương thức nào để thêm node vào một node nào đó cho trước",
+    "options": {
+      "A": "Protected",
+      "B": "Abstract",
+      "C": "Public",
+      "D": "Private"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "question": "Lập trình hướng đối tượng có tên vắt tắt là ?",
+    "options": {
+      "A": "OOP",
+      "B": "OPO",
+      "C": "PPO",
+      "D": "OPP"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 201,
+    "question": "Phát biểu nào sao đây SAI về phương thức __construct()",
+    "options": {
+      "A": "__construct() được gọi tự động và được gọi đầu tiên khi một object được khởi tạo.",
+      "B": "__construct() thường dùng để khởi tạo các giá trị ban đầu, các trường hợp gọi __construct()",
+      "C": "__construct() được đặt tên trùng với tên class",
+      "D": "__construct() phải có tham số được truyền"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 202,
+    "question": "Trong các điều khiển truy cập sau đây, điều khiển nào xác định rằng một tính năng có thể được truy cập bởi tất cả các lớp khác?",
+    "options": {
+      "A": "Protected",
+      "B": "Abstract",
+      "C": "Public",
+      "D": "Private"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php class A { static $word = \"hello\"; static function hello() { print static ::$word; } } class B extends A { static $word = \"bye\"; } B::hello(); ?>",
+    "options": {
+      "A": "bye",
+      "B": "hello",
+      "C": "byehello 20",
+      "D": "Có lỗi xảy ra"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "question": "Làm sao để truy cập vào một thuộc tính trong class thông qua $this",
+    "options": {
+      "A": "$this.$varname",
+      "B": "$this.varname",
+      "C": "$this->varname",
+      "D": "$this->$varname"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php class A { }; class B1 extends A { }; class_alias('A', 'B2'); $b1 = new B1; echo get_class($b1); $b2 = new B2; echo get_class($b2); ?>",
+    "options": {
+      "A": "B1A",
+      "B": "B2A",
+      "C": "B1B2",
+      "D": "It will throw an error."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php class number { public $a = 10; public $b = 20; private $c = 30; } $numbers = new number(); foreach ($numbers as $var => $value) { echo \"$value \"; } ?>",
+    "options": {
+      "A": "10 20",
+      "B": "The script will throw an error.",
+      "C": "10200",
+      "D": "10 20 30"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 207,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php interface foo {} class_alias('foo', 'bar'); echo interface_exists('bar') ? 'yes' : 'no';",
+    "options": {
+      "A": "Error",
+      "B": "No",
+      "C": "Yes",
+      "D": "NULL"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 208,
+    "question": "Phương pháp nào sau đây được gọi để in trực tiếp thông tin của mọt đối tượng (tương tự dùng echo hoặc print để in chuỗi)",
+    "options": {
+      "A": "__unset()",
+      "B": "__isset()",
+      "C": "__toString()",
+      "D": "__set_state()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php class Object { function Object($entity) { $entity->name = \"John\"; } } class Entity { var $name = \"Maria\"; } $entity = new Entity(); $obj = new Object($entity); print $entity->name; ?>",
+    "options": {
+      "A": "Maria",
+      "B": "John",
+      "C": "The script will throw an error message.",
+      "D": "JohnMaria"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "question": "Điều này sao đây mô tả đúng về thư viện PHPThumb",
+    "options": {
+      "A": "Thư viện xử lý các vấn đề liên quan đến hình ảnh",
+      "B": "Thư viện xử lý các vấn đề liên quan đến 21 biểu đồ",
+      "C": "Thư viện xử lý các vấn đề liên quan đến tập tin Word và Excel",
+      "D": "Thư viện xử lý các vấn đề liên quan đến tập tin PDF"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 211,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $values = array(10,20,'0','10hello','hello10'); echo array_sum($values); ?>",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "40",
+      "D": "50"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 212,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $a = 5; $b = 4; $c = ($a++ * ++$b); echo $c; ?>",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "27",
+      "D": "25"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 213,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $str = \"It's \\\"good\\\"\"; echo strlen(addslashes($str)); ?>",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 214,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $foo = 'bar'; echo '$foo\\'' . \"$foo\\'\"; ?>",
+    "options": {
+      "A": "$foo'bar\\'",
+      "B": "bar'$foo\\'",
+      "C": "$foo'bar",
+      "D": "$foobar"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 215,
+    "question": "Sau khi thực hiện đoạn mã trên kết quả hiển thị sẽ là gì? <?php $str = 'val1,val2,,val4,'; echo count(explode(',', $str)); ?>",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "question": "Đoạn mã sau, in ra giá trị nào sau đây? <?php $a = 0.5; $b = 0.1; $c = 16; echo sprintf('%01.2lf %.1lf 0x%x', $a, $b, $c); ?>",
+    "options": {
+      "A": "0.50.1 0x10",
+      "B": "0.50 0.1 0x16",
+      "C": "0.50 0.1 0x10",
+      "D": "0.5 0.1 0x16"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 217,
+    "question": "SQL là chữ viết tắt của ?",
+    "options": {
+      "A": "Structured Query Language",
+      "B": "Super Question Language",
+      "C": "Strong Query Language",
+      "D": "Structured Question Language"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 218,
+    "question": "Câu lệnh SQL nào sau đây để xóa bảng từ cơ sở dữ liệu cho trước",
+    "options": {
+      "A": "DELETE TABLE <table_name> FROM DATABASE",
+      "B": "DELETE TABLE <table_name>",
+      "C": "DROP TABLE <table_name>",
+      "D": "DROP TABLE <table_name> FROM DATABASE"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Để hiển thị những dòng phân biệt (loại bỏ kết quả trùng) chúng ta sử dụng từ khóa nào sau đây?",
+    "options": {
+      "A": "ONLY",
+      "B": "ALL 22",
+      "C": "DISTINCT",
+      "D": "ANY"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "question": "Khi thực thi Câu lệnh SQL nếu gặp thông báo lỗi “Ambiguous column name”, điều này tương đương với phát biểu nào sao đây?",
+    "options": {
+      "A": "Tên cột không tìm thấy",
+      "B": "Tên bảng không tìm thấy",
+      "C": "Lỗi cú pháp",
+      "D": "Tên cột có mặt ở nhiều bảng"
+    },
+    "answer": "D"
+  }
+]
